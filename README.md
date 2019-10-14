@@ -10,7 +10,6 @@
 * [Powered By](#powered-by)
 * [License](#license)
 
----
 
 ## Getting Started
 
@@ -29,15 +28,15 @@
 
 * **Flask**
 
-`pip install Flask`
+```pip install Flask```
 
 * **Werkzeug**
 
-`pip install Werkzeug`
+```pip install Werkzeug```
 
 * **OpenCV**
 
-`pip install opencv-python`
+```pip install opencv-python```
 
 ## Usage
 
@@ -53,13 +52,11 @@
 
 * Fire up the terminal, and execute this piece of snippet :
 
-`python app.py`
+```python app.py```
 
 **Yay !**
 
 > Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ## Powered By
-Dicky Pradana
----
-## License
-> MIT
+> Dicky Pradana
+
